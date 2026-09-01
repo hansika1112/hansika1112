@@ -63,12 +63,10 @@ An Arduino-based radar system designed to detect objects using sensors.
 
 I regularly practice **Data Structures & Algorithms** and solve coding problems to improve my problem-solving and competitive programming skills.
 
-- 🟢 LeetCode
-- 🟠 HackerRank
-- 🟡 CodeChef
+- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) [LeetCode](https://leetcode.com/u/Hansikagehlot/)
+- ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white) [HackerRank](https://www.hackerrank.com/profile/hansikagehlot111)
+- ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) [CodeChef](https://www.codechef.com/users/hansikagehlot)
 - 💻 DSA Practice
-
----
 
 ## 📚 Currently Learning
 
