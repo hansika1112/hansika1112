@@ -2,96 +2,112 @@
 
 ### B.Tech CSE | AI & ML | Aspiring Software Developer
 
-I'm a Computer Science student passionate about **Data Structures & Algorithms, Web Development, and Artificial Intelligence & Machine Learning**.
+I'm a Computer Science student passionate about **Data Structures & Algorithms, Software Development, Web Development, and Artificial Intelligence & Machine Learning**.
 
-I enjoy building projects, solving coding problems, and continuously improving my technical skills.
+I enjoy solving problems, building real-world projects, and continuously learning new technologies.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 🤖 Specialization: Artificial Intelligence & Machine Learning
-- 💻 Interested in Software Development & Problem Solving
-- 🌱 Currently learning DSA, React, Backend Development & Machine Learning
+- 🤖 Focused on Artificial Intelligence & Machine Learning
+- 💻 Passionate about Software Development & Problem Solving
+- 🧠 Regularly practicing Data Structures & Algorithms
 - 🚀 Building projects to strengthen my development skills
+- 🌱 Currently learning React, Backend Development & Machine Learning
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 `C` `C++` `Python` `JavaScript`
 
-### Web Development
+### 🌐 Web Development
 `HTML` `CSS` `JavaScript` `React` `Vite`
 
-### Tools & Technologies
+### 🤖 AI & Machine Learning
+`Python` `Machine Learning` `AI`
+
+### 🔧 Tools & Technologies
 `Git` `GitHub` `VS Code` `MongoDB`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🎓 Education Website
-A responsive educational website designed to provide an engaging learning experience.
+A responsive educational website designed to provide an engaging and user-friendly learning experience.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 ### 🏛️ Monastery360
 A digital platform focused on showcasing the monasteries of Sikkim through virtual tours, interactive maps, cultural information, and digital archives.
 
-**Technologies:** Web Development, AI/ML concepts
+**Tech:** Web Development • AI/ML Concepts
 
 ### 🧠 Dynamic Memory Management Visualizer
-A web-based project that visually demonstrates memory management concepts.
+A web-based project that visually demonstrates memory management concepts in an interactive way.
 
-**Technologies:** HTML, CSS, JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 ### 📡 Radar System
-An Arduino-based radar system project for detecting objects using sensors.
+An Arduino-based radar system designed to detect objects using sensors.
 
-**Technologies:** Arduino, Sensors, C/C++
+**Tech:** Arduino • Sensors • C/C++
 
 ---
 
-## 💻 Coding & Problem Solving
+## 💡 Coding & Problem Solving
 
-I regularly practice Data Structures & Algorithms and work on coding problems to improve my problem-solving skills.
+I regularly practice **Data Structures & Algorithms** and solve coding problems to improve my problem-solving and competitive programming skills.
 
 - 🟢 LeetCode
 - 🟠 HackerRank
-- 💡 DSA Practice
+- 🟡 CodeChef
+- 💻 DSA Practice
 
 ---
 
-## 📜 Certifications
+## 📚 Currently Learning
 
-- 🐧 Linux MOOC
-- 🐍 Basic Python
-- 💼 Interview Skills
-- 🤖 Introduction to AI & ML
+- Data Structures & Algorithms
+- React & Modern Web Development
+- Backend Development
+- Machine Learning
+- Problem Solving & Competitive Programming
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Career Goals
 
+- Become a strong Software Developer
 - Master Data Structures & Algorithms
-- Build real-world software projects
-- Improve problem-solving skills
-- Learn Machine Learning
+- Build scalable real-world applications
+- Strengthen my AI/ML knowledge
+- Contribute to meaningful open-source projects
 - Prepare for software development placements
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Activity
 
-- 💼 LinkedIn: [Add your LinkedIn profile here]
-- 💻 LeetCode: [Add your LeetCode profile here]
-- 🌐 Portfolio: [Add your portfolio link here]
+I use GitHub to build projects, practice development, learn from open-source projects, and document my coding journey.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating, and connecting with fellow developers.
+
+- 💼 LinkedIn
+- 🟢 LeetCode
+- 🟠 HackerRank
+- 🟡 CodeChef
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
-Let's learn, build and grow together 🚀
+**Keep learning. Keep building. Keep growing. 🚀**
