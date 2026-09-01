@@ -101,7 +101,7 @@ I use GitHub to build projects, practice development, learn from open-source pro
 
 I'm always open to learning, collaborating, and connecting with fellow developers.
 
-- <img src="https://cdn.simpleicons.org/linkedin" width="20"> [LinkedIn](https://www.linkedin.com/in/hansikagehlot/)
+- <img src="https://img.icons8.com/color/48/linkedin.png" width="22" height="22"> [LinkedIn](https://www.linkedin.com/in/hansikagehlot/)
 - <img src="https://cdn.simpleicons.org/leetcode" width="20"> [LeetCode](https://leetcode.com/u/Hansikagehlot/)
 - <img src="https://cdn.simpleicons.org/hackerrank" width="20"> [HackerRank](https://www.hackerrank.com/profile/hansikagehlot111)
 - <img src="https://cdn.simpleicons.org/codechef" width="20"> [CodeChef](https://www.codechef.com/users/hansikagehlot)
