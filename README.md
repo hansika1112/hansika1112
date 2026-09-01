@@ -87,34 +87,30 @@
 ## 🚀 Featured Projects
 
 ### 🎓 Education Website
-
 A responsive educational website designed to provide an engaging and user-friendly learning experience.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 ### 🏛️ Monastery360
+A digital platform showcasing the monasteries of Sikkim through virtual tours, interactive maps, cultural information, and digital archives.
 
-A digital platform focused on showcasing the monasteries of Sikkim through virtual tours, interactive maps, cultural information, and digital archives.
-
-**Tech Stack:** Web Development • AI/ML Concepts
+**Tech:** HTML • CSS • JavaScript • AI/ML Concepts
 
 ---
 
 ### 🧠 Dynamic Memory Management Visualizer
+An interactive web-based project that visually demonstrates memory management concepts and helps users understand how memory allocation works.
 
-A web-based project that visually demonstrates memory management concepts in an interactive way.
-
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 ### 📡 Radar System
+An Arduino-based radar system designed to detect objects using sensors and visualize their distance and position.
 
-An Arduino-based radar system designed to detect objects using sensors.
-
-**Tech Stack:** Arduino • Sensors • C/C++
+**Tech:** Arduino • C/C++ • Sensors
 
 ---
 
@@ -122,32 +118,54 @@ An Arduino-based radar system designed to detect objects using sensors.
 
 I regularly practice **Data Structures & Algorithms** and solve coding problems to improve my problem-solving and competitive programming skills.
 
-- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) [LeetCode](https://leetcode.com/u/Hansikagehlot/)
-- ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white) [HackerRank](https://www.hackerrank.com/profile/hansikagehlot111)
-- ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) [CodeChef](https://www.codechef.com/users/hansikagehlot)
-- 💻 DSA Practice
+<p align="center">
+
+<a href="https://leetcode.com/u/hansikagehlot1/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/hansikagehlot111">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+</a>
+
+<a href="https://www.codechef.com/users/hansikagehlot">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</p>
+
+**Focus Areas:**
+
+- 🧠 Data Structures & Algorithms
+- 🔍 Problem Solving
+- ⚡ Competitive Programming
+- 🏆 Regular Coding Practice
+- 📈 Improving Coding Skills
+
+---
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- React & Modern Web Development
-- Backend Development
-- Machine Learning
-- Problem Solving & Competitive Programming
+- 🧠 Advanced Data Structures & Algorithms
+- ⚛️ React & Modern Web Development
+- 🔧 Backend Development
+- 🤖 Machine Learning & Artificial Intelligence
+- 🗄️ Databases & APIs
+- ☁️ Git, GitHub & Open-Source Development
 
 ---
 
 ## 🎯 Career Goals
 
-- Become a strong Software Developer
-- Master Data Structures & Algorithms
-- Build scalable real-world applications
-- Strengthen my AI/ML knowledge
-- Contribute to meaningful open-source projects
-- Prepare for software development placements
+- 💻 Become a strong **Software Developer**
+- 🧠 Build strong expertise in **DSA & Problem Solving**
+- 🚀 Develop and deploy **real-world applications**
+- 🤖 Strengthen my skills in **AI & Machine Learning**
+- 🌐 Improve my **Full-Stack Development** skills
+- 🤝 Contribute to meaningful **open-source projects**
+- 💼 Prepare for **Software Development internships & placements**
 
 ---
-
 ## 🏆 Achievements & Coding Practice
 
 - 💻 Regularly practicing **Data Structures & Algorithms**
