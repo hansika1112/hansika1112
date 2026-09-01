@@ -89,9 +89,16 @@ I regularly practice **Data Structures & Algorithms** and solve coding problems 
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-I use GitHub to build projects, practice development, learn from open-source projects, and document my coding journey.
+<p align="center">
+  <a href="https://github.com/hansika1112">
+    <img src="https://github-readme-stats.vercel.app/api?username=hansika1112&show_icons=true&theme=radical" alt="Hansika's GitHub Stats" />
+  </a>
+  <a href="https://github.com/hansika1112">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansika1112&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
